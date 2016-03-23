@@ -2,7 +2,14 @@
 
 Yıldırım Beyazıt University lab and lesson C lecture notes. These all My own C codes which coding in class.
 
-### Installation
+### Folder Naming
+
+1-Lab-1 (First period first lesson first question)
+1-lab-1-2 (First period first lesson second question)
+
+2-lab-3 (Second period third lesson first question)
+
+### Installation on Local
 
 You can copy these all codes as manual or you can follow these way [command line interface (linux)]:
 * with ssh
